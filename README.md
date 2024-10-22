@@ -1,4 +1,4 @@
-# Привет меня зовут Vsevolod Yeroshenko. 
+# Привет меня зовут Vsevolod. 
 
 <h2 align="left">Обо мне:</h2>
   <samp>
@@ -34,7 +34,7 @@
 - ✅ Успешно прошел курсы профессиональной переподготовки Python Developer в Yandex Practicum.
 - 😄 И, конечно же, предаюсь размышлениям и страданиям над задачками на LeetCode. Как же без них!
   
-### А вот и основной стек знаний:
+### &#128736; Мой стек:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Django-REST-Framework](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
