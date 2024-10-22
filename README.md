@@ -1,4 +1,4 @@
-# Привет меня зовут Сева. 
+# Привет меня зовут Vsevolod Yeroshenko. 
 
 <h2 align="left">About me:</h2>
   <samp>
