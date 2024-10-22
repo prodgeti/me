@@ -1,6 +1,6 @@
 # Привет меня зовут Vsevolod Yeroshenko. 
 
-<h2 align="left">About me:</h2>
+<h2 align="left">Обо мне:</h2>
   <samp>
 💡 Я Python developer.
 
