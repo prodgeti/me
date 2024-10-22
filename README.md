@@ -6,13 +6,13 @@
 
 💡 Я работаю с веб-приложениями, а также с инструментами обработки данных.
   </samp>
-  <br/>
+  <!-- <br/>
   <br/>
   <a href="https://github.com/prodgeti?tab=repositories">
   <img src="https://github-readme-stats.vercel.app/api?username=prodgeti&show_icons=true&theme=dark" alt="Vsevolod Github Stats"></img>
   </a>
 </p>
-<p align="center">
+<p align="left">
 <samp>
 Здесь можно полюбоваться на мои великие успехи на LeetCode:
   </samp>
